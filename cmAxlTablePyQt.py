@@ -213,7 +213,7 @@ class Ui_CM_AXL(object):
         for row in row_list:
             result_list.append(row)
         
-        #column setting 
+        #column setting
         self.tableWidget.setColumnCount(len(column_head))
         self.tableWidget.setRowCount(len(result_list))
         for i, column in enumerate(column_head):            
