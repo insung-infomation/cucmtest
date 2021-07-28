@@ -9,3 +9,5 @@ You can easily check the phone device, pickup group, directory number, user etc
 
 ## Usage
 > python.exe cmAxlTablePyQt.py
+
+![](img/cucm tester screenshot1.png?raw=true)
