@@ -8,5 +8,5 @@ You can easily check the phone device, pickup group, directory number, user etc
 - download [latest release](https://github.com/insung-infomation/cucmtest)
 
 ## Usage
-> python.exe cmAxlTablePyQt.py
+python.exe cmAxlTablePyQt.py
 ![cucm tester screenshot1](https://user-images.githubusercontent.com/87967653/127253053-cb57efbc-3f89-4fbd-abf0-9245d1ef5bac.png)
