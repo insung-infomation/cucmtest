@@ -1,8 +1,8 @@
-# cucmtest
+# CUCM AXL Test utility
 
 
 ```
-Cisco CUCM AXL Test
-Python Sample Source
-GUI, DeviceList, Pickup Group List, Directory Number List, UserList Etc
+This tool is a Cisco CUCM AXL test program.
+A GUI Program developed in Python
+You can easily check the phone device, pickup group, directory number, user etc
 ```
