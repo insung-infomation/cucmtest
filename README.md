@@ -14,3 +14,5 @@ python.exe cmAxlTablePyQt.py
 
 
 the raw python code can be run from source after installing dependencies `pip install -r requirements.txt`
+
+-*-*-
